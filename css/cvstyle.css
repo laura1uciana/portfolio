@@ -68,3 +68,12 @@ article + article {
     font-weight: 400;
     opacity: .7;
   }
+
+
+  a[href*="//"]:after { 
+    font-weight: 300;
+    font-size: .85em;
+    content: "\2197"; /* top right arrow: â†— */
+    color: var(--textcolor);
+    opacity: .25;
+  }
