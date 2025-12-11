@@ -55,6 +55,16 @@ h1 {
 
 }
 
+h2 {
+
+  font-size: 2rem;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+  color: rgb(190, 0, 0);
+  align-items: center;
+
+}
+
 article + article {
     margin-top: 4.5em;
   }
